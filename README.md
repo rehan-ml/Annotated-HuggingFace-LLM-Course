@@ -16,7 +16,7 @@ This repo merges both into single, self-contained notebooks:
 
 ## What's covered
 
-Chapters 1–11 of the HuggingFace LLM Course, including:
+Chapters 1–7 and Chapter 11 of the HuggingFace LLM Course in full depth, including:
 - Transformer architecture fundamentals
 - Tokenizers (training, BPE/WordPiece/Unigram concepts)
 - The `transformers` and `datasets` libraries
@@ -25,7 +25,11 @@ Chapters 1–11 of the HuggingFace LLM Course, including:
 - Semantic search with FAISS
 - Chat templates, Supervised Fine-Tuning (SFT), and LoRA
 
-Chapter 12 (Reasoning Models / GRPO) was intentionally excluded — it's advanced RL-research-level content, outside the scope of what's needed for an applied AI/ML Engineer role.
+**Chapter 9 (Building and sharing demos / Gradio)** and **Chapter 10 (Curate high-quality datasets / Argilla)** are covered at a conceptual/overview level only (notes included, hands-on setup skipped) — both are UI/third-party tool chapters with minimal transferable ML concepts.
+
+**Chapters intentionally skipped in full:**
+- **Chapter 8 (How to ask for help)** — debugging/forum-etiquette guide, not core ML content
+- **Chapter 12 (Build Reasoning Models / GRPO)** — advanced RL-research-level content, outside the scope of applied AI/ML Engineer work
 
 ## Who this is for
 
