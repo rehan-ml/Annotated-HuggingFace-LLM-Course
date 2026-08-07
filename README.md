@@ -44,7 +44,7 @@ Each notebook corresponds to a chapter/section of the course. Open in Jupyter, V
 
 ## Related
 Also check out my annotated Vector Database & ChromaDB notes:  
-👉 [Annotated-VectorDB-ChromaDB-Course](https://github.com/YOUR_USERNAME/Annotated-VectorDB-ChromaDB-Course)
+👉 [Annotated-VectorDB-ChromaDB-Course](https://github.com/rehan-ml/Annotated-VectorDB-ChromaDB-Course)
 
 ## Credit
 
