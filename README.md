@@ -42,6 +42,10 @@ Anyone going through the official HuggingFace course who wants:
 
 Each notebook corresponds to a chapter/section of the course. Open in Jupyter, VS Code, or Google Colab and follow along. Notebooks are meant to be read top to bottom like a study guide, not just executed.
 
+## Related
+Also check out my annotated Vector Database & ChromaDB notes:  
+👉 [Annotated-VectorDB-ChromaDB-Course](https://github.com/YOUR_USERNAME/Annotated-VectorDB-ChromaDB-Course)
+
 ## Credit
 
 All original course content, structure, and exercises belong to [HuggingFace](https://huggingface.co/learn/llm-course/) and its authors. This repository is an educational derivative — annotated, corrected, and expanded for personal learning purposes, shared publicly in case it helps others.
